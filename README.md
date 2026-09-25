@@ -27,7 +27,9 @@ Provides senior leadership with clear takeaways without requiring manual dashboa
 - **Narrative Analysis:** Structured executive commentary on Share of Voice, Spikes, and Channel penetration.
 - **Competitive Benchmarking Table:** Clear comparative metrics (Mentions, Estimated Reach, Share of Voice %).
 
-![Executive Briefing](Executive-Briefing.png?raw=true)
+<p align="center">
+  <img src="page1.png" alt="Executive Briefing" width="850">
+</p>
 
 ---
 
