@@ -28,7 +28,7 @@ Provides senior leadership with clear takeaways without requiring manual dashboa
 - **Competitive Benchmarking Table:** Clear comparative metrics (Mentions, Estimated Reach, Share of Voice %).
 
 <p align="center">
-  <img src="./Executive-Briefing.png" alt="Executive Briefing" width="850">
+  <img src="Executive-Briefing.png" alt="Executive Briefing" width="850">
 </p>
 
 ---
